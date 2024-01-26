@@ -1,0 +1,14 @@
+D:\ITI-dotNet\OOP\lab6\lab6\bin\Debug\net7.0\lab6.exe
+D:\ITI-dotNet\OOP\lab6\lab6\bin\Debug\net7.0\lab6.deps.json
+D:\ITI-dotNet\OOP\lab6\lab6\bin\Debug\net7.0\lab6.runtimeconfig.json
+D:\ITI-dotNet\OOP\lab6\lab6\bin\Debug\net7.0\lab6.dll
+D:\ITI-dotNet\OOP\lab6\lab6\bin\Debug\net7.0\lab6.pdb
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.AssemblyInfoInputs.cache
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.AssemblyInfo.cs
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.csproj.CoreCompileInputs.cache
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.dll
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\refint\lab6.dll
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.pdb
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\lab6.genruntimeconfig.cache
+D:\ITI-dotNet\OOP\lab6\lab6\obj\Debug\net7.0\ref\lab6.dll
