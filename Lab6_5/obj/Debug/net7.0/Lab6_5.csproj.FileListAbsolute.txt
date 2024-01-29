@@ -1,0 +1,14 @@
+D:\ITI-dotNet\OOP\lab6\Lab6_5\bin\Debug\net7.0\Lab6_5.exe
+D:\ITI-dotNet\OOP\lab6\Lab6_5\bin\Debug\net7.0\Lab6_5.deps.json
+D:\ITI-dotNet\OOP\lab6\Lab6_5\bin\Debug\net7.0\Lab6_5.runtimeconfig.json
+D:\ITI-dotNet\OOP\lab6\Lab6_5\bin\Debug\net7.0\Lab6_5.dll
+D:\ITI-dotNet\OOP\lab6\Lab6_5\bin\Debug\net7.0\Lab6_5.pdb
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.AssemblyInfoInputs.cache
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.AssemblyInfo.cs
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.csproj.CoreCompileInputs.cache
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.dll
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\refint\Lab6_5.dll
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.pdb
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\Lab6_5.genruntimeconfig.cache
+D:\ITI-dotNet\OOP\lab6\Lab6_5\obj\Debug\net7.0\ref\Lab6_5.dll
