@@ -1,0 +1,19 @@
+Assignment 8
+Make a class called Complex which describes the complex numbers (int real, int Imaginary), 
+then(using 
+operator overloading): 
+*make it simple and just add the real to the real and, add the imaginary to the imaginary*  
+ 
+1. c3 = c1 - c2 
+2. c3 = 7 - c2  
+3. c3 = c2 - 7 
+4. c1 -= c2  
+5. -c1 
+6. c1 == c2 
+7. c1 != c2 
+8. c1 > c2, c1 >= c2 
+9. c < c2, c1 <= c2 
+10. (int) c1 (case Implicitly) 
+11. (string) c1 (Cast Explicitly) 
+12. If (c1); // Cast bool 
+ 
