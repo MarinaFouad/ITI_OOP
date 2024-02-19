@@ -1,0 +1,11 @@
+Assignment 6 
+
+Problem 2:  
+2. A class named “Circle” has a certain radius and PI. There are 
+two functions in that class namely the Area calculation, and 
+the Perimeter calculation. Please perform the following: 
+a. Create a getter and setter functions OR 
+Properties(Preferred) for needed attributes of the class. 
+b. Create a main function and create two objects based on user 
+input and calculate the area and the perimeter for both of 
+them. 
