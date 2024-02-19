@@ -1,0 +1,16 @@
+Assignment 6 
+Problem 1: 
+1. Read the below use case and create the classes and objects 
+to implement the requirements. 
+Use-case: 
+There is a client who came to you as a software developer who 
+wants to make a system for his library he wants in his system 
+some requirements: 
+1- The system consists of books and visitors 
+2- Each book has (name , auther name , edition , category) 
+3- Each visitor has (name, phone number, email) 
+In main: 
+To test your system create two objects from each class and take 
+their attributes from the console. 
+Make Defualt Constructor, Parametariezed Constructor, Copy 
+Constructor 
