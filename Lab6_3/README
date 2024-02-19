@@ -1,0 +1,14 @@
+Assignment 6 
+
+Problem 3: 
+3. A class Time that contains as attributes the hours, the 
+minutes, and the seconds and has the following functions: 
+a. Properties for all the attributes OR Properties. 
+b. Adding two times together and returning a new time object 
+correctly.  
+c. Resetting a time object by making the hours, minutes and 
+seconds equal 0. 
+d. Adding a time by 30 minutes and adjusting the hours 
+subsequently. 
+e. Printing the values of a certain time object. 
+f. Convert a given time to a total number of seconds. 
