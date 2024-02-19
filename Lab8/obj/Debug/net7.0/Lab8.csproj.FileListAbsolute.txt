@@ -1,0 +1,14 @@
+D:\ITI-dotNet\OOP\Lab8\Lab8\bin\Debug\net7.0\Lab8.exe
+D:\ITI-dotNet\OOP\Lab8\Lab8\bin\Debug\net7.0\Lab8.deps.json
+D:\ITI-dotNet\OOP\Lab8\Lab8\bin\Debug\net7.0\Lab8.runtimeconfig.json
+D:\ITI-dotNet\OOP\Lab8\Lab8\bin\Debug\net7.0\Lab8.dll
+D:\ITI-dotNet\OOP\Lab8\Lab8\bin\Debug\net7.0\Lab8.pdb
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.AssemblyInfoInputs.cache
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.AssemblyInfo.cs
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.csproj.CoreCompileInputs.cache
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.dll
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\refint\Lab8.dll
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.pdb
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\Lab8.genruntimeconfig.cache
+D:\ITI-dotNet\OOP\Lab8\Lab8\obj\Debug\net7.0\ref\Lab8.dll
